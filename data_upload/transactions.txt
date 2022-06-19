@@ -1,0 +1,5 @@
+amount,destination
+200,gikondo
+300,Kimisagara
+400,Remera
+200,Gatsata
