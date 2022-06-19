@@ -1,2 +1,2 @@
 # SimpleIOT
-# Simple IOT app
+# Simple IOT
